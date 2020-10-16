@@ -40,7 +40,7 @@ def Crawler():
     scrolls = Json('scroll')
 
     print("Iniciando o scroll da pagina")
-    for i in range(1, 3):
+    for i in range(1, scrolls):
 
         carros = driver.execute_script(
             "window.document.getElementsByClassName('ResultZero_header')")

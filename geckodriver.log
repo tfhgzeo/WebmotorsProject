@@ -1603,3 +1603,1789 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdL
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 1602482291446	Marionette	INFO	Stopped listening on port 6912
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Gustavo\AppData\Local\Temp\rust_mozprofilepuzrYF\protections.sqlite
+1602486572295	geckodriver	INFO	Listening on 127.0.0.1:8167
+1602486577509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileCYOBvk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602486605625	Marionette	INFO	Listening on port 8182
+1602486606755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602486655927	Marionette	INFO	Stopped listening on port 8182
+1602486670139	geckodriver	INFO	Listening on 127.0.0.1:8383
+1602486673740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile3z2fcU"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602486677773	Marionette	INFO	Listening on port 8392
+1602486677867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602486697036	Marionette	INFO	Stopped listening on port 8392
+JavaScript error: , line 0: uncaught exception: undefined
+1602486699936	geckodriver	INFO	Listening on 127.0.0.1:8545
+1602486702793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilej0kypp"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602486712225	Marionette	INFO	Listening on port 8553
+1602486712719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602486730720	Marionette	INFO	Stopped listening on port 8553
+1602486738452	geckodriver	INFO	Listening on 127.0.0.1:8703
+1602486741397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileRDI4k6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602486747073	Marionette	INFO	Listening on port 8711
+1602486747113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602486763690	Marionette	INFO	Stopped listening on port 8711
+1602486769602	geckodriver	INFO	Listening on 127.0.0.1:8852
+1602486772507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile9LMQwI"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602486778553	Marionette	INFO	Listening on port 8860
+1602486778732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602486798932	Marionette	INFO	Stopped listening on port 8860
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1602486803006	geckodriver	INFO	Listening on 127.0.0.1:9008
+1602486806214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile5I4Fit"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1602486813265	Marionette	INFO	Listening on port 9016
+1602486813595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602486836869	Marionette	INFO	Stopped listening on port 9016
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390138,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1602486841600	geckodriver	INFO	Listening on 127.0.0.1:9187
+1602486844866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileBnleZn"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602486849722	Marionette	INFO	Listening on port 9195
+1602486850078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602486889244	Marionette	INFO	Stopped listening on port 9195
+1602486894851	geckodriver	INFO	Listening on 127.0.0.1:9336
+1602486897805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilePStvRM"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602486921669	Marionette	INFO	Listening on port 9344
+1602486921951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602486941919	Marionette	INFO	Stopped listening on port 9344
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8676, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602486946277	geckodriver	INFO	Listening on 127.0.0.1:9512
+1602486949361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile4CDVqU"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602486955318	Marionette	INFO	Listening on port 9520
+1602486955578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602486975009	Marionette	INFO	Stopped listening on port 9520
+1602486978658	geckodriver	INFO	Listening on 127.0.0.1:9654
+1602486981646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileuFJZGS"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602486988736	Marionette	INFO	Listening on port 9663
+1602486988969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487004728	Marionette	INFO	Stopped listening on port 9663
+1602487009072	geckodriver	INFO	Listening on 127.0.0.1:9819
+1602487011916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilecOpqSY"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487017101	Marionette	INFO	Listening on port 9827
+1602487017154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487036853	Marionette	INFO	Stopped listening on port 9827
+1602487040738	geckodriver	INFO	Listening on 127.0.0.1:9976
+1602487043787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileUrStmb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487049038	Marionette	INFO	Listening on port 9984
+1602487049499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487068940	Marionette	INFO	Stopped listening on port 9984
+[Child 9408, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1602487073307	geckodriver	INFO	Listening on 127.0.0.1:10131
+1602487076327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileopIYWp"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487081683	Marionette	INFO	Listening on port 10139
+1602487082040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487101169	Marionette	INFO	Stopped listening on port 10139
+[Child 11648, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10776, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602487107304	geckodriver	INFO	Listening on 127.0.0.1:10276
+1602487110765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofiledcOWGM"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487120570	Marionette	INFO	Listening on port 10284
+1602487120688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487138705	Marionette	INFO	Stopped listening on port 10284
+1602487141699	geckodriver	INFO	Listening on 127.0.0.1:10421
+1602487144707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilestmIc7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487149351	Marionette	INFO	Listening on port 10429
+1602487149422	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487170921	Marionette	INFO	Stopped listening on port 10429
+JavaScript error: , line 0: uncaught exception: undefined
+1602487176476	geckodriver	INFO	Listening on 127.0.0.1:10583
+1602487179442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileZUluLj"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487183933	Marionette	INFO	Listening on port 10592
+1602487184161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487202359	Marionette	INFO	Stopped listening on port 10592
+1602487205335	geckodriver	INFO	Listening on 127.0.0.1:10721
+1602487208466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilen6DbU6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487213752	Marionette	INFO	Listening on port 10729
+1602487214179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487232746	Marionette	INFO	Stopped listening on port 10729
+JavaScript error: , line 0: uncaught exception: undefined
+1602487236706	geckodriver	INFO	Listening on 127.0.0.1:10904
+1602487239936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilejAgZDr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487245812	Marionette	INFO	Listening on port 10913
+1602487246153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487270282	Marionette	INFO	Stopped listening on port 10913
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1602487274309	geckodriver	INFO	Listening on 127.0.0.1:11043
+1602487277341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileQ5EgqD"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1602487283793	Marionette	INFO	Listening on port 11051
+1602487284164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487303269	Marionette	INFO	Stopped listening on port 11051
+1602487306854	geckodriver	INFO	Listening on 127.0.0.1:11191
+1602487309874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile8AWMTC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487314715	Marionette	INFO	Listening on port 11199
+1602487315091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487331413	Marionette	INFO	Stopped listening on port 11199
+[Parent 8428, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602487334606	geckodriver	INFO	Listening on 127.0.0.1:11347
+1602487337624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile7DOlHW"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487340818	Marionette	INFO	Listening on port 11355
+1602487341246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487358570	Marionette	INFO	Stopped listening on port 11355
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+JavaScript error: , line 0: uncaught exception: undefined
+1602487362053	geckodriver	INFO	Listening on 127.0.0.1:11515
+1602487365086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile1a7rDS"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487369203	Marionette	INFO	Listening on port 11523
+1602487369303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487388413	Marionette	INFO	Stopped listening on port 11523
+JavaScript error: , line 0: uncaught exception: undefined
+1602487390761	geckodriver	INFO	Listening on 127.0.0.1:11665
+1602487394352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileHnweYY"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487398411	Marionette	INFO	Listening on port 11678
+1602487398468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487415738	Marionette	INFO	Stopped listening on port 11678
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602487419345	geckodriver	INFO	Listening on 127.0.0.1:11833
+1602487422372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilemxDKWe"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487426772	Marionette	INFO	Listening on port 11842
+1602487427086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487446246	Marionette	INFO	Stopped listening on port 11842
+1602487448807	geckodriver	INFO	Listening on 127.0.0.1:11970
+1602487451836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile2cHTQy"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487455675	Marionette	INFO	Listening on port 11978
+1602487455961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487474762	Marionette	INFO	Stopped listening on port 11978
+1602487477709	geckodriver	INFO	Listening on 127.0.0.1:12119
+1602487480749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile8j79Zu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487484653	Marionette	INFO	Listening on port 12128
+1602487484870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487504930	Marionette	INFO	Stopped listening on port 12128
+[Parent 9716, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602487507279	geckodriver	INFO	Listening on 127.0.0.1:12264
+1602487510300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilef6dwbw"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487513828	Marionette	INFO	Listening on port 12272
+1602487513950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487532730	Marionette	INFO	Stopped listening on port 12272
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602487534867	geckodriver	INFO	Listening on 127.0.0.1:12412
+1602487537908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilee1SZ6b"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487542214	Marionette	INFO	Listening on port 12421
+1602487542625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487562729	Marionette	INFO	Stopped listening on port 12421
+1602487565659	geckodriver	INFO	Listening on 127.0.0.1:12565
+1602487568679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileYaGhvu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487572734	Marionette	INFO	Listening on port 12573
+1602487572796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487590433	Marionette	INFO	Stopped listening on port 12573
+1602487593166	geckodriver	INFO	Listening on 127.0.0.1:12730
+1602487596197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileJYlFOW"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487599068	Marionette	INFO	Listening on port 12738
+1602487599313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487616025	Marionette	INFO	Stopped listening on port 12738
+1602487618619	geckodriver	INFO	Listening on 127.0.0.1:12880
+1602487622157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile0dGabJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487625989	Marionette	INFO	Listening on port 12888
+1602487626269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487644418	Marionette	INFO	Stopped listening on port 12888
+1602487646334	geckodriver	INFO	Listening on 127.0.0.1:13039
+1602487649376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileFf61am"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487653300	Marionette	INFO	Listening on port 13047
+1602487653490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487670568	Marionette	INFO	Stopped listening on port 13047
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602487672846	geckodriver	INFO	Listening on 127.0.0.1:13191
+1602487675886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileoWLlaE"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487679609	Marionette	INFO	Listening on port 13201
+1602487679998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487698809	Marionette	INFO	Stopped listening on port 13201
+1602487701006	geckodriver	INFO	Listening on 127.0.0.1:13357
+1602487704017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileKXlrEa"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487709541	Marionette	INFO	Listening on port 13365
+1602487709746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487725760	Marionette	INFO	Stopped listening on port 13365
+1602487728555	geckodriver	INFO	Listening on 127.0.0.1:13513
+1602487731578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilewdHi4e"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487734757	Marionette	INFO	Listening on port 13521
+1602487735200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487769405	Marionette	INFO	Stopped listening on port 13521
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1602487771987	geckodriver	INFO	Listening on 127.0.0.1:13617
+1602487775008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilenHWkUf"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487778096	Marionette	INFO	Listening on port 13625
+1602487778122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487795438	Marionette	INFO	Stopped listening on port 13625
+1602487798206	geckodriver	INFO	Listening on 127.0.0.1:13764
+1602487801247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileBcEiyQ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487805245	Marionette	INFO	Listening on port 13773
+1602487805376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487820889	Marionette	INFO	Stopped listening on port 13773
+1602487829155	geckodriver	INFO	Listening on 127.0.0.1:13917
+1602487832178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilezMCcyF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487836819	Marionette	INFO	Listening on port 13925
+1602487836937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487852898	Marionette	INFO	Stopped listening on port 13925
+1602487856672	geckodriver	INFO	Listening on 127.0.0.1:14062
+1602487859713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileP3p5o5"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487864971	Marionette	INFO	Listening on port 14070
+1602487865427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487881984	Marionette	INFO	Stopped listening on port 14070
+1602487884425	geckodriver	INFO	Listening on 127.0.0.1:14211
+1602487887465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilesRo3ge"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487891061	Marionette	INFO	Listening on port 14219
+1602487891088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487911466	Marionette	INFO	Stopped listening on port 14219
+1602487914367	geckodriver	INFO	Listening on 127.0.0.1:14365
+1602487917386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileDb3DKs"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487922291	Marionette	INFO	Listening on port 14373
+1602487922608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487943191	Marionette	INFO	Stopped listening on port 14373
+JavaScript error: , line 0: uncaught exception: undefined
+1602487946047	geckodriver	INFO	Listening on 127.0.0.1:14540
+1602487949102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile5juhbQ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487952726	Marionette	INFO	Listening on port 14548
+1602487952734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602487972065	Marionette	INFO	Stopped listening on port 14548
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602487975551	geckodriver	INFO	Listening on 127.0.0.1:14683
+1602487978575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileukGncW"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602487982123	Marionette	INFO	Listening on port 14691
+1602487982207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488000266	Marionette	INFO	Stopped listening on port 14691
+JavaScript error: , line 0: uncaught exception: undefined
+1602488009973	geckodriver	INFO	Listening on 127.0.0.1:14836
+1602488012983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileeLxR9H"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488017539	Marionette	INFO	Listening on port 14844
+1602488017709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488036131	Marionette	INFO	Stopped listening on port 14844
+1602488042733	geckodriver	INFO	Listening on 127.0.0.1:15003
+1602488045776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileoPWN8n"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488050031	Marionette	INFO	Listening on port 15011
+1602488050503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488068823	Marionette	INFO	Stopped listening on port 15011
+1602488071944	geckodriver	INFO	Listening on 127.0.0.1:15147
+1602488075044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilehWoLwR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1602488083925	Marionette	INFO	Listening on port 15155
+1602488084004	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488100489	Marionette	INFO	Stopped listening on port 15155
+1602488103295	geckodriver	INFO	Listening on 127.0.0.1:15306
+1602488106328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilePCaK3v"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1602488112776	Marionette	INFO	Listening on port 15314
+1602488113222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488133295	Marionette	INFO	Stopped listening on port 15314
+1602488136229	geckodriver	INFO	Listening on 127.0.0.1:15452
+1602488139248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile3mBBIR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1602488149541	Marionette	INFO	Listening on port 15461
+1602488149676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488166087	Marionette	INFO	Stopped listening on port 15461
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602488169398	geckodriver	INFO	Listening on 127.0.0.1:15607
+1602488172420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilearRML9"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488176417	Marionette	INFO	Listening on port 15615
+1602488176537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488193525	Marionette	INFO	Stopped listening on port 15615
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8952, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602488196214	geckodriver	INFO	Listening on 127.0.0.1:15763
+1602488199485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileKF74wZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488203715	Marionette	INFO	Listening on port 15774
+1602488204200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488220022	Marionette	INFO	Stopped listening on port 15774
+[Parent 2156, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602488223139	geckodriver	INFO	Listening on 127.0.0.1:15928
+1602488226169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileOvdZfi"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488230097	Marionette	INFO	Listening on port 15936
+1602488230280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488248456	Marionette	INFO	Stopped listening on port 15936
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602488251405	geckodriver	INFO	Listening on 127.0.0.1:16083
+1602488254423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileoIz2Ca"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488257868	Marionette	INFO	Listening on port 16091
+1602488258035	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488279755	Marionette	INFO	Stopped listening on port 16091
+1602488282702	geckodriver	INFO	Listening on 127.0.0.1:16233
+1602488285712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileFJMxwz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488289659	Marionette	INFO	Listening on port 16241
+1602488289831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488308973	Marionette	INFO	Stopped listening on port 16241
+1602488312510	geckodriver	INFO	Listening on 127.0.0.1:16383
+1602488315571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileiOd7bh"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488319566	Marionette	INFO	Listening on port 16391
+1602488319693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488339780	Marionette	INFO	Stopped listening on port 16391
+1602488342407	geckodriver	INFO	Listening on 127.0.0.1:16528
+1602488345436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile4bFuR6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488349111	Marionette	INFO	Listening on port 16537
+1602488349559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488366032	Marionette	INFO	Stopped listening on port 16537
+1602488370589	geckodriver	INFO	Listening on 127.0.0.1:16674
+1602488373606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileMdhH3Z"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488377556	Marionette	INFO	Listening on port 16682
+1602488377732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488399944	Marionette	INFO	Stopped listening on port 16682
+1602488404024	geckodriver	INFO	Listening on 127.0.0.1:16827
+1602488407047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilewlQ6B6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488422273	Marionette	INFO	Listening on port 16835
+1602488422308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488440799	Marionette	INFO	Stopped listening on port 16835
+1602488444845	geckodriver	INFO	Listening on 127.0.0.1:16971
+1602488447871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofiletf66mb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488455061	Marionette	INFO	Listening on port 16980
+1602488455191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488471783	Marionette	INFO	Stopped listening on port 16980
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1602488475997	geckodriver	INFO	Listening on 127.0.0.1:17114
+1602488479028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileihQMla"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488484090	Marionette	INFO	Listening on port 17122
+1602488484252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488504266	Marionette	INFO	Stopped listening on port 17122
+1602488507941	geckodriver	INFO	Listening on 127.0.0.1:17263
+1602488510975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile00NYAZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488515689	Marionette	INFO	Listening on port 17271
+1602488515695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488535334	Marionette	INFO	Stopped listening on port 17271
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390138,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390138,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1602488547588	geckodriver	INFO	Listening on 127.0.0.1:17422
+1602488550817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileHEe85H"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488566081	Marionette	INFO	Listening on port 17430
+1602488566562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488593490	Marionette	INFO	Stopped listening on port 17430
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1602488653243	geckodriver	INFO	Listening on 127.0.0.1:17574
+1602488969408	geckodriver	INFO	Listening on 127.0.0.1:17630
+1602488972518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileDRcdaU"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602488978758	Marionette	INFO	Listening on port 17638
+1602488978840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602488996562	Marionette	INFO	Stopped listening on port 17638
+1602488999058	geckodriver	INFO	Listening on 127.0.0.1:17795
+1602489002088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilecwOeJh"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489005631	Marionette	INFO	Listening on port 17804
+1602489005698	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489021221	Marionette	INFO	Stopped listening on port 17804
+JavaScript error: , line 0: uncaught exception: undefined
+1602489024340	geckodriver	INFO	Listening on 127.0.0.1:17956
+1602489027373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileJvCSWA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489031456	Marionette	INFO	Listening on port 17964
+1602489031484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489051847	Marionette	INFO	Stopped listening on port 17964
+[Parent 6684, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602489055243	geckodriver	INFO	Listening on 127.0.0.1:18113
+1602489058272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileiUwwF1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489061696	Marionette	INFO	Listening on port 18123
+1602489061883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489080515	Marionette	INFO	Stopped listening on port 18123
+1602489083231	geckodriver	INFO	Listening on 127.0.0.1:18274
+1602489086273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilek1c1bi"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489097987	Marionette	INFO	Listening on port 18282
+1602489098304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489118124	Marionette	INFO	Stopped listening on port 18282
+[Parent 11760, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602489122531	geckodriver	INFO	Listening on 127.0.0.1:18436
+1602489125561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileYKcGE0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489131034	Marionette	INFO	Listening on port 18444
+1602489131507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489156744	Marionette	INFO	Stopped listening on port 18444
+1602489159625	geckodriver	INFO	Listening on 127.0.0.1:18591
+1602489162665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileZuyRF3"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489166480	Marionette	INFO	Listening on port 18600
+1602489166789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489185216	Marionette	INFO	Stopped listening on port 18600
+1602489188247	geckodriver	INFO	Listening on 127.0.0.1:18741
+1602489191266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilejZdJ4W"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489195680	Marionette	INFO	Listening on port 18749
+1602489195980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489215253	Marionette	INFO	Stopped listening on port 18749
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1602489217937	geckodriver	INFO	Listening on 127.0.0.1:18900
+1602489220959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileAqgRTd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489225611	Marionette	INFO	Listening on port 18908
+1602489225675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489243187	Marionette	INFO	Stopped listening on port 18908
+JavaScript error: , line 0: uncaught exception: undefined
+1602489246690	geckodriver	INFO	Listening on 127.0.0.1:19056
+1602489249729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileDcoO2P"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489253581	Marionette	INFO	Listening on port 19064
+1602489253845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489269772	Marionette	INFO	Stopped listening on port 19064
+1602489272782	geckodriver	INFO	Listening on 127.0.0.1:19199
+1602489275825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilemEputX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489280655	Marionette	INFO	Listening on port 19207
+1602489281081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489300703	Marionette	INFO	Stopped listening on port 19207
+[Parent 8632, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602489303340	geckodriver	INFO	Listening on 127.0.0.1:19352
+1602489306367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile71NcA4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489310636	Marionette	INFO	Listening on port 19360
+1602489311086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489327458	Marionette	INFO	Stopped listening on port 19360
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12048, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602489330228	geckodriver	INFO	Listening on 127.0.0.1:19518
+1602489333248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileGdsJP8"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489336669	Marionette	INFO	Listening on port 19526
+1602489336864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489352466	Marionette	INFO	Stopped listening on port 19526
+JavaScript error: , line 0: uncaught exception: undefined
+1602489355130	geckodriver	INFO	Listening on 127.0.0.1:19683
+1602489358161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilewMImUR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489362120	Marionette	INFO	Listening on port 19691
+1602489362287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489380411	Marionette	INFO	Stopped listening on port 19691
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602489386636	geckodriver	INFO	Listening on 127.0.0.1:19832
+1602489389733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileRczYlZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489393547	Marionette	INFO	Listening on port 19840
+1602489393845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489412567	Marionette	INFO	Stopped listening on port 19840
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602489419369	geckodriver	INFO	Listening on 127.0.0.1:19999
+1602489422494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileTUVAH0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489427256	Marionette	INFO	Listening on port 20007
+1602489427709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489453797	Marionette	INFO	Stopped listening on port 20007
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":176,"stack":["resource://gre/modules/CrashMonitor.jsm:init:176","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]}] Barrier: OS.File: Waiting for clients before profileBeforeChange
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Mon Oct 12 2020 04:57:44 GMT-0300 (Horário Padrão de Brasília)","exists"],"latestReceived":["Mon Oct 12 2020 04:57:44 GMT-0300 (Horário Padrão de Brasília)",true],"messagesSent":72,"messagesReceived":72,"messagesQueued":72,"DEBUG":false,"clients":[{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change","state":"(none)","filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":176,"stack":["resource://gre/modules/CrashMonitor.jsm:init:176","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]}]},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1652,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1652","resource://gre/modules/osfile/osfile_async_front.jsm:null:1672","resource://gre/modules/osfile.jsm:null:11","resource://gre/modules/addons/GMPProvider.jsm:null:16","resource://gre/modules/AddonManager.jsm:startup:780","resource://gre/modules/AddonManager.jsm:startup:3471","resource://gre/modules/addonManager.js:observe:87"]},{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":489,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1927","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:116","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1777","resource:///modules/BrowserGlue.jsm:BG_observe:944","chrome://browser/content/browser.js:_delayedStartup:2102"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1602489489079	geckodriver	INFO	Listening on 127.0.0.1:20154
+1602489492114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilelhR88d"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489496699	Marionette	INFO	Listening on port 20162
+1602489496827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489521159	Marionette	INFO	Stopped listening on port 20162
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1602489529710	geckodriver	INFO	Listening on 127.0.0.1:20326
+1602489532742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilef5gqNB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489538413	Marionette	INFO	Listening on port 20337
+1602489538457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489554571	Marionette	INFO	Stopped listening on port 20337
+1602489557983	geckodriver	INFO	Listening on 127.0.0.1:20472
+1602489561511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileeWOQpZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489566587	Marionette	INFO	Listening on port 20480
+1602489566725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489587848	Marionette	INFO	Stopped listening on port 20480
+1602489592155	geckodriver	INFO	Listening on 127.0.0.1:20632
+1602489595198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilea2s2tT"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1602489600799	Marionette	INFO	Listening on port 20641
+1602489601116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489632499	Marionette	INFO	Stopped listening on port 20641
+1602489635952	geckodriver	INFO	Listening on 127.0.0.1:20774
+1602489638879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileH1553q"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489643189	Marionette	INFO	Listening on port 20782
+1602489643596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2224 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2224 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489828969	Marionette	INFO	Stopped listening on port 20782
+1602489834145	geckodriver	INFO	Listening on 127.0.0.1:20969
+1602489837850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileKwcnjK"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489842337	Marionette	INFO	Listening on port 20977
+1602489842575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1511 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 1511 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:21167
+1602489889166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilemw3v7K"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602489902447	Marionette	INFO	Listening on port 21177
+1602489902800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2694 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 2694 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 711 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 711 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5578 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 5578 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kdMDGALxb7rWjfGZ5E6rkNPOuNaXBXqM-bDMVcqad5I.js line 1 > eval line 6756 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kdMDGALxb7rWjfGZ5E6rkNPOuNaXBXqM-bDMVcqad5I.js line 1 > eval line 6756 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602489932484	Marionette	INFO	Stopped listening on port 21177
+1602489989044	geckodriver	INFO	Listening on 127.0.0.1:21405
+1602490018960	geckodriver	INFO	Listening on 127.0.0.1:21415
+1602490021978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilefTicGv"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1602490028698	Marionette	INFO	Listening on port 21424
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:21454
+1602490044164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileq9QR7F"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602490049118	Marionette	INFO	Listening on port 21463
+1602490049387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6338 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrE1yZ0XDC5ogwV0DdLcRYcLenmcbaA1q0bi-X3sD0w.js line 1 > eval line 6338 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1602820251823	geckodriver	INFO	Listening on 127.0.0.1:57234
+1602820255410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilekLmAyX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602820275898	Marionette	INFO	Listening on port 57243
+1602820276691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602820296116	Marionette	INFO	Stopped listening on port 57243
+JavaScript error: , line 0: uncaught exception: undefined
+1602820303360	geckodriver	INFO	Listening on 127.0.0.1:1025
+1602820306380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileFMkqCZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602820311256	Marionette	INFO	Listening on port 1033
+1602820311611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/36t2pzUCsky2p8StOfRDuZ2SQrRQGkwFUvrIpVyovYo.js line 1 > eval line 4438 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/36t2pzUCsky2p8StOfRDuZ2SQrRQGkwFUvrIpVyovYo.js line 1 > eval line 4438 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1602826385013	Marionette	INFO	Stopped listening on port 1033
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=23786133800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3222,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:379","chrome://global/content/elements/browser-custom-element.js:construct:1075","chrome://global/content/elements/browser-custom-element.js:connectedCallback:307","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:381","chrome://browser/content/tabbrowser.js:init:42","chrome://browser/content/browser.js:onDOMContentLoaded:1779"]}] Barrier: profile-before-change
+[Parent 10316, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Parent 10316, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Parent 10316, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Parent 10316, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Parent 10316, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2262: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Gustavo\AppData\Local\Temp\rust_mozprofileFMkqCZ\protections.sqlite
+1602826729151	geckodriver	INFO	Listening on 127.0.0.1:4018
+1602826733745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofile3gFKIv"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602826752302	Marionette	INFO	Listening on port 4026
+1602826752376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602826774705	Marionette	INFO	Stopped listening on port 4026
+1602826777799	geckodriver	INFO	Listening on 127.0.0.1:4191
+1602826780934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileJTNgvK"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602826784756	Marionette	INFO	Listening on port 4199
+1602826785050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/36t2pzUCsky2p8StOfRDuZ2SQrRQGkwFUvrIpVyovYo.js line 1 > eval line 4827 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/36t2pzUCsky2p8StOfRDuZ2SQrRQGkwFUvrIpVyovYo.js line 1 > eval line 4827 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 5040, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602827090146	Marionette	INFO	Stopped listening on port 4199
+\rust_mozprofileQtnNms"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602826973889	Marionette	INFO	Listening on port 4414
+1602826974174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602826992970	Marionette	INFO	Stopped listening on port 4414
+[Parent 8208, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602826996343	geckodriver	INFO	Listening on 127.0.0.1:4556
+1602826999450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofilenDghpn"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602827005331	Marionette	INFO	Listening on port 4564
+1602827005671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENa8ccb19d1824443d8c0fde67006c1d04.min.js, line 12: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602827026718	Marionette	INFO	Stopped listening on port 4564
+1602827029518	geckodriver	INFO	Listening on 127.0.0.1:4705
+1602827032667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gustavo\\AppData\\Local\\Temp\\rust_mozprofileg3d3fE"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602827038293	Marionette	INFO	Listening on port 4713
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 5728, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 5728, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602827079086	Marionette	INFO	Stopped listening on port 4713

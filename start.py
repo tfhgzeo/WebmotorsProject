@@ -1,4 +1,4 @@
-from crawler import Crawler
+from scrollcalc import ScrollsCalc
 import time
 
 def start():
@@ -8,7 +8,7 @@ def start():
     while i == 0:
         ini = time.time()
         print("iniciando A execução {0} do Crawler".format(x))
-        Crawler()
+        ScrollsCalc()
         fim = time.time()
         print("Execução {0} finalizada em {1}".format(x, fim-ini))
         x = x + 1
